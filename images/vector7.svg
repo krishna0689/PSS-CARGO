@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.616063in" height="0.673346in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 616 673"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil7 {fill:#D9694B}
+    .fil5 {fill:#3CA6E6;fill-rule:nonzero}
+    .fil4 {fill:#89D8F5;fill-rule:nonzero}
+    .fil6 {fill:#C3E2F5;fill-rule:nonzero}
+    .fil1 {fill:#D9694B;fill-rule:nonzero}
+    .fil2 {fill:#EF5375;fill-rule:nonzero}
+    .fil0 {fill:#F2A450;fill-rule:nonzero}
+    .fil3 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_918278240">
+   <g>
+    <polygon class="fil0" points="137,269 291,269 291,385 137,385 "/>
+    <polygon class="fil1" points="262,269 291,269 291,385 262,385 "/>
+    <polygon class="fil2" points="194,269 233,269 233,327 194,327 "/>
+    <g>
+     <polygon class="fil3" points="156,337 175,337 175,355 156,355 "/>
+    </g>
+    <polygon class="fil0" points="60,385 214,385 214,500 60,500 "/>
+    <polygon class="fil0" points="1,499 155,499 155,615 1,615 "/>
+    <polygon class="fil1" points="185,385 214,385 214,500 185,500 "/>
+    <polygon class="fil1" points="126,499 155,499 155,615 126,615 "/>
+    <polygon class="fil2" points="117,385 156,385 156,442 117,442 "/>
+    <polygon class="fil2" points="59,499 97,499 97,557 59,557 "/>
+    <g>
+     <polygon class="fil3" points="79,453 98,453 98,471 79,471 "/>
+    </g>
+    <g>
+     <polygon class="fil3" points="20,567 39,567 39,585 20,585 "/>
+    </g>
+    <polygon class="fil0" points="214,385 368,385 368,500 214,500 "/>
+    <polygon class="fil0" points="155,499 309,499 309,615 155,615 "/>
+    <polygon class="fil1" points="339,385 368,385 368,500 339,500 "/>
+    <polygon class="fil1" points="280,499 309,499 309,615 280,615 "/>
+    <polygon class="fil2" points="272,385 310,385 310,442 272,442 "/>
+    <polygon class="fil2" points="213,499 251,499 251,557 213,557 "/>
+    <g>
+     <polygon class="fil3" points="233,453 252,453 252,471 233,471 "/>
+    </g>
+    <g>
+     <polygon class="fil3" points="174,567 193,567 193,585 174,585 "/>
+    </g>
+    <g>
+     <polygon class="fil0" points="368,385 523,385 523,500 368,500 "/>
+     <polygon class="fil1" points="494,385 523,385 523,500 494,500 "/>
+     <polygon class="fil2" points="426,385 465,385 465,442 426,442 "/>
+     <g>
+      <polygon class="fil3" points="388,453 407,453 407,471 388,471 "/>
+     </g>
+    </g>
+    <g>
+     <polygon class="fil0" points="310,499 464,499 464,615 310,615 "/>
+     <polygon class="fil1" points="435,499 464,499 464,615 435,615 "/>
+     <polygon class="fil2" points="367,499 406,499 406,557 367,557 "/>
+     <g>
+      <polygon class="fil3" points="329,567 348,567 348,585 329,585 "/>
+     </g>
+    </g>
+    <g>
+     <polygon class="fil0" points="461,499 615,499 615,615 461,615 "/>
+     <polygon class="fil1" points="586,499 615,499 615,615 586,615 "/>
+     <polygon class="fil2" points="519,499 557,499 557,557 519,557 "/>
+     <g>
+      <polygon class="fil3" points="480,567 500,567 500,585 480,585 "/>
+     </g>
+    </g>
+    <polygon class="fil4" points="368,211 484,327 522,288 406,173 "/>
+    <polygon class="fil5" points="387,192 503,307 522,288 406,173 "/>
+    <path class="fil4" d="M228 33c45,-45 119,-45 164,0 45,45 45,118 0,164 -45,45 -119,45 -164,0 -45,-46 -45,-119 0,-164z"/>
+    <path class="fil5" d="M310 -1c-5,0 -10,0 -14,1 57,7 101,56 101,115 0,59 -44,107 -101,114 4,1 9,1 14,1 64,0 116,-51 116,-115 0,-64 -52,-116 -116,-116z"/>
+    <path class="fil3" d="M310 38c43,0 77,34 77,77 0,42 -34,77 -77,77 -42,0 -77,-35 -77,-77 0,-43 35,-77 77,-77z"/>
+    <path class="fil6" d="M310 38c-3,0 -6,0 -10,0 39,5 68,37 68,77 0,39 -29,71 -68,76 4,1 7,1 10,1 43,0 77,-35 77,-77 0,-43 -34,-77 -77,-77z"/>
+   </g>
+   <rect class="fil7" x="1" y="615" width="614.685" height="59.4724"/>
+  </g>
+ </g>
+</svg>
